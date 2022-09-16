@@ -5,7 +5,7 @@ function App() {
   return <div>
     Hello {value}
     <div>
-      <a href="/.auth/login/b2c">Login</a>
+      <a href="/.auth/login/b2c/callback">Login</a>
     </div>
     <div>
       <a href="/.auth/me">My Info</a>
