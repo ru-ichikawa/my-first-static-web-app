@@ -27,10 +27,6 @@
       {
         "route": "/*",
         "allowedRoles": ["authenticated"]
-      },
-      {
-        "route": "/logout",
-        "redirect": "/.auth/logout"
       }
     ],
     "responseOverrides": {
